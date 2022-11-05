@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": "23",
+      "caption": "true love",
+      "image_url": "https://i.ibb.co/rx2GgVB/SAAAA.jpg"
+    },
+    {
+      "id": "40",
+      "caption": "SSSSSSSSSSSSS",
+      "image_url": "https://i.ibb.co/30XM51t/MRM-4754.jpg"
+    },
+    {
+      "id": "56",
+      "caption": "shiv",
+      "image_url": "https://i.ibb.co/5Wkx71j/MRM-4089.jpg"
+    },
+    {
+      "id": "25",
+      "caption": "sd",
+      "image_url": "https://i.ibb.co/tLMVDKG/MRM-4089.jpg"
+    },
+    {
+      "id": "78",
+      "caption": "mnbv",
+      "image_url": "https://i.ibb.co/tJwNrCY/Screenshot-1.png"
+    },
+    {
+      "id": "55",
+      "caption": "iuytr",
+      "image_url": "https://i.ibb.co/NN9GNGf/Screenshot-3.png"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
